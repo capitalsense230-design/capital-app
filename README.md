@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Capital Sense Funding
 
 Professional business financing website for Capital Sense Funding.
@@ -22,3 +23,6 @@ https://capitalsense230-design.github.io/capitalsensefunding/
 
 ## License
 MIT License
+=======
+# capital-app
+>>>>>>> 1f96b28c813b8d9474b1d99fb50cc040223e4a87
